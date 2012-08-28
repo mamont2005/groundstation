@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "groundstation", "groundstation\groundstation.csproj", "{B3C7164D-1259-4F29-9750-D8F9367EF5AC}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = groundstation\\groundstation.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = groundstation\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C7164D-1259-4F29-9750-D8F9367EF5AC}.Debug|x86.ActiveCfg = Debug|x86
+		{B3C7164D-1259-4F29-9750-D8F9367EF5AC}.Debug|x86.Build.0 = Debug|x86
+		{B3C7164D-1259-4F29-9750-D8F9367EF5AC}.Release|x86.ActiveCfg = Release|x86
+		{B3C7164D-1259-4F29-9750-D8F9367EF5AC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
